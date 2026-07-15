@@ -1,0 +1,1 @@
+                temp.push_back(nums[i]);            if(st.find(nums[i])==st.end()) {        for(int i = 0; i < n ; ++i){        }            return ;            ans.push_back(temp);        if(temp.size()==n){    void perms(vector<int>&temp , vector<int>&nums){    vector<vector<int>> ans;    unordered_set<int>st;    int n ;                st.insert(nums[i]);
